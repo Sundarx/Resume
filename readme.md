@@ -1,0 +1,1 @@
+This repository serves as a resume that describes my experience and knowledge. It contains my website, linkedin, github, email, resume, and coding skills.

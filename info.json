@@ -1,0 +1,25 @@
+{
+  "name": "Sundar Raj",
+  "website": "Add in later",
+  "linkedin": "Add in later",
+  "github": "sundarx",
+  "email": "sundar.rx1@gmail.com",
+  "resume": "https://github.com/Sundarx/Resume/blob/main/README.md",
+  "beginnerTechnologies": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "React",
+      "Node",
+      "Python"
+  ],
+  "proficientTechnologies": [
+      "Java",
+      "MySQL"
+  ],
+  "otherSkills": [
+      "Piano",
+      "Sequence",
+      "Swimming"
+  ]
+}
